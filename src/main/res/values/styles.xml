@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="rounded_border">
+        <item name="android:background">@drawable/rounded_corner_background_white</item>
+    </style>
+
+    <style name="rounded_border.white" parent="rounded_border"></style>
+
+    <style name="suggestion_background" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/suggestion_background</item>
+    </style>
+</resources>

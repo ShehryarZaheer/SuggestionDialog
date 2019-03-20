@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#548cc7</color>
+    <color name="colorPrimaryDark">#548cc7</color>
+    <color name="colorAccent">#000</color>
+
+    <color name="dark_blue">#015a93</color>
+    <color name="light_blue">#548cc7</color>
+    <color name="gray">@color/dark_gray</color>
+    <color name="previous_light_gray">#e4e4e4</color>
+
+    <color name="cyan">#31b0d5</color>
+    <color name="light_green">#28ccab</color>
+
+    <color name="icon_green">#2bb998</color>
+    <color name="icon_orange">#f68c1f</color>
+    <color name="icon_yellow">#f9c14d</color>
+
+    <color name="light_gray">@color/dark_gray</color>
+    <color name="dark_gray">#446d7f</color>
+    <color name="off_white">#f2f2f2</color>
+    <color name="red">#EB494B</color>
+    <color name="orange">#f28d2c</color>
+    <color name="grey">#BEBEBE</color>
+    <color name="buttonColorRed">#EB494B</color>
+    <color name="buttonColorGreen">#449D44</color>
+    <color name="buttonColorDarkGreen">#0c330c</color>
+    <color name="green">#00FF00</color>
+    <color name="white">@android:color/white</color>
+    <color name="menu_item_normal_bg">#f3f3f3</color>
+    <color name="menu_item_selected_bg">#0072bb</color>
+    <color name="menu_item_normal_dark_bg">#cecece</color>
+
+    <color name="btn_light_blue1">#548cc7</color>
+    <color name="btn_light_blue2">#5596da</color>
+
+    <color name="btn_dark_blue1">#49619d</color>
+    <color name="btn_dark_blue2">#071754</color>
+
+    <color name="btn_white1">#fff</color>
+    <color name="btn_white2">#f4ecec</color>
+
+    <color name="content_bg">#f8f8f8</color>
+    <color name="radio_tint">#a0a5a6</color>
+    <color name="checkbox_tint">#a0a5a6</color>
+
+    <color name="rating_star_normal">#ffe784</color>
+    <color name="rating_star_activated">#ffd835</color>
+
+    <color name="profile_nav_normal">#757e99</color>
+
+    <color name="blue">#6380b4</color>
+    <color name="appointment_text">#90a4ae</color>
+    <color name="appointment_normal_border">#6380b4</color>
+    <color name="appointment_disabled_bg">#eaecee</color>
+    <color name="appointment_competed">#68d168</color>
+    <color name="appointment_canceled">#f48182</color>
+
+    <color name="feedback_title">#223F48</color>
+    <color name="book_appointment_title">#98AACA</color>
+
+    <color name="textColor">#fff</color>
+    <color name="chat_recieve">#95aacb</color>
+
+    <color name="invoice_item_bg">#F7F5F6</color>
+
+    <color name="map_overlay_border">#015a93</color>
+    <color name="map_overlay_fill">#66015a93</color>
+    <color name="place_holder_background">#dddddd</color>
+    <color name="lighttext">#446d7f</color>
+    <color name="bgColor_overlay_black">#95000000</color>
+
+</resources>

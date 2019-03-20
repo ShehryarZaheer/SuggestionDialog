@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_padding">16dp
+    </dimen>
+    <dimen name="placeholderImage">60dp</dimen>
+    <dimen name="placeholderTextHeight">8dp
+    </dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="suggestion_text_size">22sp</dimen>
+
+    <!--Generic-->
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_normal">8dp
+    </dimen>
+    <dimen name="margin_large">12dp</dimen>
+    <dimen name="margin_extra_large">20dp</dimen>
+
+    <dimen name="iv_logo_width">250dp</dimen>
+    <dimen name="iv_logo_height">80dp
+    </dimen>
+    <dimen name="toggle_ctrl_height">45dp</dimen>
+
+    <dimen name="btn_height">45dp</dimen>
+    <dimen name="btn_margin_horizontal">40dp</dimen>
+
+    <dimen name="header_height">50dp</dimen>
+    <dimen name="header_btn_dimen">50dp
+    </dimen>
+    <dimen name="header_btn_padding">15dp</dimen>
+
+    <dimen name="field_height">50dp</dimen>
+    <dimen name="field_icon_dimen">25dp</dimen>
+
+    <dimen name="question_field_height">200dp</dimen>
+
+    <dimen name="nav_bar_height">50dp</dimen>
+    <dimen name="nav_bar_img_dimen">20dp</dimen>
+
+
+    <dimen name="iv_profile_dimen">80dp</dimen>
+
+    <!--Landing screen-->
+    <dimen name="landing_cont_top_height">160dp
+    </dimen>
+    <dimen name="landing_field_height">40dp</dimen>
+    <dimen name="landing_field_elevation">2dp
+    </dimen>
+    <dimen name="landing_btm_icon_dimen">30dp</dimen>
+
+    <!--Login-->
+    <dimen name="login_logo_width">270dp</dimen>
+    <dimen name="login_logo_height">100dp
+    </dimen>
+
+    <!--Home-->
+    <dimen name="home_iv_dimen">45dp</dimen>
+    <dimen name="home_iv_padding">5dp
+    </dimen>
+    <dimen name="home_tab_elevation">4dp</dimen>
+
+    <!--Doctor list-->
+    <dimen name="item_doc_opt_iv_height">48dp
+    </dimen>
+    <dimen name="item_doc_opt_iv_padding">8dp</dimen>
+    <dimen name="item_doc_iv_profile_dimen">
+        45dp
+    </dimen>
+
+    <!--Filters-->
+    <dimen name="filter_iv_dimen">22dp</dimen>
+    <dimen name="filter_separator_height">
+        20dp
+    </dimen>
+
+    <!--DocPatientProfilefile-->
+    <dimen name="doc_profile_bar_iv_padding">12dp</dimen>
+
+
+    <!--Service-->
+    <dimen name="like_btn_dimen">30dp</dimen>
+    <dimen name="like_btn_padding">4dp
+    </dimen>
+    <dimen name="star_iv_dimen">20dp</dimen>
+
+    <!--Feedback -->
+    <dimen name="feedback_header_icon_dimen">25dp
+    </dimen>
+    <dimen name="standard_margin">10dp</dimen>
+    <dimen name="buttonMarginLefRight">40dp
+    </dimen>
+    <dimen name="buttonHeight">50dp</dimen>
+    <dimen name="standard_medium_margin">16dp</dimen>
+
+    <!--Menu-->
+    <dimen name="menu_item_height">60dp</dimen>
+    <dimen name="menu_icon_dimen">25dp
+    </dimen>
+    <dimen name="menu_count_dimen">22dp</dimen>
+    <dimen name="menu_horizontal_margin">20dp</dimen>
+
+    <dimen name="profile_inner_frag_btm_margin">20dp</dimen>
+
+    <dimen name="item_extra_btn_dimen">40dp</dimen>
+    <dimen name="item_extra_btn_padding">4dp
+    </dimen>
+    <dimen name="navigation_text_size">10sp</dimen>
+    <dimen name="list_itme_image_width_height">
+        200dp
+    </dimen>
+    <dimen name="list_item_image_big">200dp</dimen>
+    <dimen name="notification_badge_small">10dp
+    </dimen>
+    <dimen name="margin_mid_large">16dp</dimen>
+    <dimen name="image_width_height_small">100dp
+    </dimen>
+    <dimen name="image_width_height_big">200dp</dimen>
+    <dimen name="icon_height_medium">20dp
+    </dimen>
+    <dimen name="popup_window_width_height">170dp</dimen>
+    <dimen name="iv_height">150dp
+    </dimen>
+    <dimen name="iv_width">100dp</dimen>
+    <dimen name="iv_document_width">70dp
+    </dimen>
+    <dimen name="iv_document_height">100dp</dimen>
+    <dimen name="richtext_texteditor_icon">5dp</dimen>
+    <dimen name="edit_text_height">50dp</dimen>
+    <dimen name="large_text">22sp</dimen>
+    <dimen name="dashboard_blue_area_height">250dp</dimen>
+    <dimen name="lottie_anim_medium_size">70dp</dimen>
+    <dimen name="round_radius">10dp</dimen>
+    <integer name="search_icon_scale_animation_time">400</integer>
+    <integer name="search_icon_scale_animation_time_start_offset">500</integer>
+    <integer name="search_icon_translate_animation_time">2000</integer>
+
+</resources>
